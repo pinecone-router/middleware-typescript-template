@@ -1,4 +1,4 @@
-import type {Middleware} from 'pinecone-router'
+import type { Middleware } from 'pinecone-router';
 
 const PineconeRouterMiddleware: Middleware = {
 	/**
@@ -35,7 +35,7 @@ const PineconeRouterMiddleware: Middleware = {
 	/**
 	 * Will be called before the handlers are executed.
 	 * during navigation (PineconeRouter.navigate()).
-	 * 
+	 *
 	 */
 	onBeforeHandlersExecuted(route, path, firstload) {},
 
