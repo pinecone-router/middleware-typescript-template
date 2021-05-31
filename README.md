@@ -87,7 +87,7 @@ function router() {
 
 | Version | Pinecone Router Versions |
 | ------- | ------------------------ |
-| 0.0.0   | ^1.0.0                   |
+| 0.0.0   | ^1.0.2                   |
 
 ## Contributing:
 

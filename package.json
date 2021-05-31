@@ -41,6 +41,6 @@
 		"microbundle": "^0.13.0"
 	},
 	"dependencies": {
-		"pinecone-router": "^1.0.1"
+		"pinecone-router": "^1.0.2"
 	}
 }

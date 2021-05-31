@@ -1,4 +1,4 @@
-import type {Middleware} from 'pinecone-router/dist/utils'
+import type {Middleware} from 'pinecone-router'
 
 const PineconeRouterMiddleware: Middleware = {
 	/**
