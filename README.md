@@ -70,6 +70,7 @@ function router() {
 			}
 		}
 	}
+}
 ```
 
 2. Usage information.
