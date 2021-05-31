@@ -9,10 +9,10 @@ specifiers:
   jest: ^26.6.3
   jsdom-simulant: ^1.1.2
   microbundle: ^0.13.0
-  pinecone-router: ^1.0.2
+  pinecone-router: ^1.0.3
 
 dependencies:
-  pinecone-router: 1.0.2
+  pinecone-router: 1.0.3
 
 devDependencies:
   '@babel/preset-env': 7.14.4
@@ -5452,8 +5452,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /pinecone-router/1.0.2:
-    resolution: {integrity: sha512-OamdK8/DLGnkoHFb05P8I2vvi9q88uZ9SnzcuexUuHhrEZxW71qGMnwJXjNwdEmkjvZwqWprs2FytZFDmjCYqg==}
+  /pinecone-router/1.0.3:
+    resolution: {integrity: sha512-rBUVosQ+wmYsV4E43RuT5HKkYs8QNCHSrQvpwUWSch+4y4Snhosu3Wd8+Zc5r8hui1cIWfQWTBbk4mTTIkfC6A==}
     dependencies:
       alpinejs: 2.8.2
     dev: false
