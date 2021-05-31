@@ -22,7 +22,7 @@ const PineconeRouterMiddleware: Middleware = {
 		//load settings
 		this.settings = {
 			...this.settings,
-			...(settings.middlewares?.[this.name] ?? {}),
+			...(settings.middlewares[<any>this.name] ?? {}),
 		};
 	},
 
